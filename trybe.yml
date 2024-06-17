@@ -1,0 +1,11 @@
+ignore_files:
+  - tests
+  - static
+  - spotnews/settings.py
+  - spotnews/settings_test.py
+  - manage.py
+  - news/static
+  - requirements.txt
+  - setup.cfg
+  - pyproject.toml
+  - trybe.yml
